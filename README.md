@@ -38,7 +38,7 @@
 ---
 
 ## Installation
-1. Download the Unity package from the [Releases](https://github.com/your-repo/releases) section.
+1. Download the Unity package.
 2. Import the package into your Unity project via `Assets > Import Package > Custom Package`.
 3. Follow the instructions above to set up the main menu, settings, and pause functionality.
 
